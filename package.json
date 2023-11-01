@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  }, 
+  "dependencies": {
+    "ethers": "^6.8.0",
+    "ganache-cli": "^6.12.2",
+    "solc": "^0.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
